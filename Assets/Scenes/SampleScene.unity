@@ -343,7 +343,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _horizontalSpeed: 8
   _faceRight: 1
-  _jumpForce: 1500
+  _jumpForce: 1800
   _gravityScale: 3
 --- !u!1 &519420028
 GameObject:
